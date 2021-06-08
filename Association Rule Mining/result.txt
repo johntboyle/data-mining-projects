@@ -1,0 +1,9 @@
+{'BreastCancer', 'gene1 UP', 'gene54 UP'} -> {'BreastCancer'} support: 30% confidence: 60.00%
+{'BreastCancer', 'gene54 UP', 'gene8 UP'} -> {'BreastCancer'} support: 30% confidence: 61.22%
+{'BreastCancer', 'gene80 Down', 'gene8 UP'} -> {'BreastCancer'} support: 30% confidence: 65.22%
+{'gene13 Down', 'ColonCancer', 'gene28 Down'} -> {'ColonCancer'} support: 30% confidence: 60.00%
+{'gene13 Down', 'ColonCancer', 'gene59 UP'} -> {'ColonCancer'} support: 33% confidence: 61.11%
+{'gene13 Down', 'ColonCancer', 'gene97 Down'} -> {'ColonCancer'} support: 31% confidence: 63.27%
+{'BreastCancer', 'gene88 Down', 'gene24 Down'} -> {'BreastCancer'} support: 32% confidence: 64.00%
+{'BreastCancer', 'gene80 Down', 'gene88 Down'} -> {'BreastCancer'} support: 30% confidence: 61.22%
+{'gene13 Down', 'gene59 UP', 'ColonCancer', 'gene72 UP'} -> {'ColonCancer'} support: 30% confidence: 62.50%

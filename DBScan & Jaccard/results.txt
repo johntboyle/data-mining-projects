@@ -1,0 +1,14 @@
+eps:1.0 min_pts:2 jaccard index: 0.3350810345006593
+eps:2.0 min_pts:2 jaccard index: 0.1847946015170919
+eps:3.0 min_pts:2 jaccard index: 0.17150925467417927
+eps:4.0 min_pts:2 jaccard index: 0.16582016154375356
+
+eps:1.0 min_pts:4 jaccard index: 0.3383596214511041
+eps:2.0 min_pts:4 jaccard index: 0.1846960890552655
+eps:3.0 min_pts:4 jaccard index: 0.1721096297889116
+eps:4.0 min_pts:4 jaccard index: 0.16578618809400453
+
+eps:1.0 min_pts:6 jaccard index: 0.3445777921937507
+eps:2.0 min_pts:6 jaccard index: 0.1872626777245226
+eps:3.0 min_pts:6 jaccard index: 0.17305990100798438
+eps:4.0 min_pts:6 jaccard index: 0.16578618809400453
